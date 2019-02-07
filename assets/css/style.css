@@ -1,0 +1,51 @@
+#dgifs{
+color:white;
+}
+body{
+    max-height:1200px;
+}
+.linkss{
+    font-size:20px;
+    color:white;
+}
+.container-fluid{
+    background-color:black;
+    width:100%;
+    height:100%;
+    padding:0;
+}
+aside{
+    background-color:rgb(51, 63, 63);
+    border:1px solid rgb(46, 185, 46);
+    color:white;
+    padding:15px;
+    height:80%;
+
+}
+nav{
+    border:1px solid rgb(46, 185, 46);
+}
+table{
+    position: relative;
+    width:100%;
+    left:5%;
+
+}
+
+img{
+    width:11rem;
+    height:6rem;
+    z-index: 2;
+}
+footer{
+    background-color:rgb(51, 63, 63);
+    border-top:3px solid rgb(46, 185, 46);
+    height:54px;
+    width:100%;
+    margin-top:5%;
+}
+.rating{
+    color:white;
+    text-align: center;
+    font-size: 10px;
+}
